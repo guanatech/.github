@@ -5,20 +5,11 @@ Welcome to the Guana Tech organization!
 ## About Guana Tech
 Guana Tech is a community-driven organization focused on the development and promotion of the C# IT community. Our main objective is to foster knowledge sharing, collaboration, and growth among C# developers. 
 
-## What We Do
-At Guana Tech, we organize various activities and initiatives to support the C# IT community:
-
-### Meetups and Events
-We regularly host meetups, conferences, and workshops that provide opportunities for C# developers to network, learn from industry experts, and share their experiences. Our events cover a wide range of topics, including software development best practices, new technologies, frameworks, and tools.
-
 ### Online Learning Resources
 We curate and share online learning resources, including tutorials, articles, videos, and blog posts, to help C# developers expand their knowledge and stay up-to-date with the latest trends and advancements in the C# ecosystem.
 
 ### Open-Source Projects
 We encourage and contribute to open-source projects within the C# community. Through collaborative development, we aim to build high-quality, reusable software components and libraries that benefit the community as a whole.
-
-### Mentorship Program
-Our mentorship program connects experienced C# developers with beginners or individuals looking to enhance their skills. We provide guidance, support, and advice to help them navigate their learning journey and achieve their professional goals.
 
 ### Community Forums and Discussions
 We maintain an active online community forum where C# developers can ask questions, seek guidance, and engage in discussions. It's a platform for sharing ideas, solving problems, and creating meaningful connections within the C# IT community.
