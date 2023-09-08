@@ -1,1 +1,1 @@
-# .github
+# Guana Tech profile
