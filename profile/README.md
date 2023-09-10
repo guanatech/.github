@@ -1,5 +1,8 @@
 # Guana Tech - IT Community Development
+![image](https://github.com/guanatech/.github/assets/75209526/2bfe478b-d4c2-467c-902d-8ba9695dbd2e)
 
+
+  
 Welcome to the Guana Tech organization! 
 
 ## About Guana Tech
