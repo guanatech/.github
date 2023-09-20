@@ -1,5 +1,6 @@
 # Guana Tech - IT Community Development
-![image](https://github.com/guanatech/.github/assets/75209526/2bfe478b-d4c2-467c-902d-8ba9695dbd2e)
+![266859456-2bfe478b-d4c2-467c-902d-8ba9695dbd2e](https://github.com/guanatech/.github/assets/79607850/c3bdf2e2-d9c5-413f-b81e-5ae21d2e97d2)
+
 
 
   
